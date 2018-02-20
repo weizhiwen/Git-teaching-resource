@@ -28,7 +28,7 @@
 
 这是我最喜欢的一张图片。
 
-![GitHub](./images/github.jpg)
+![GitHub](../images/github.jpg)
 
 
 
